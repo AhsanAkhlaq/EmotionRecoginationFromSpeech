@@ -2,6 +2,7 @@
 
 An advanced **Speech Emotion Recognition (SER)** system built using **LSTM Neural Networks** in TensorFlow/Keras, integrated with a **Streamlit Web App** for interactive predictions. This project leverages deep learning to classify human emotions from audio speech signals.
 
+
 ---
 
 ## 📌 Project Overview
@@ -100,8 +101,11 @@ The project includes a **Streamlit app** with the following features:
   ✅ **Professional UI with Custom CSS**
 
 ### 🔗 UI Screenshots
+<img width="881" height="807" alt="donutChart" src="https://github.com/user-attachments/assets/1161f8e4-bedd-4fbf-9ff7-aabce135745f" />
+<img width="1408" height="882" alt="barChart" src="https://github.com/user-attachments/assets/f7e5bac6-f3f7-466b-a4dd-4dc91c62179f" />
+<img width="510" height="767" alt="confidenceScore" src="https://github.com/user-attachments/assets/927651ef-87f1-4a9d-ab13-f82aa7cc2a92" />
+<img width="847" height="726" alt="ranking" src="https://github.com/user-attachments/assets/1c7bf417-4e02-4df2-8069-161d54ac31d8" />
 
-(Place your app screenshots here)
 
 ---
 
